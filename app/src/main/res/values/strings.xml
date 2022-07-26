@@ -2,4 +2,5 @@
     <string name="app_name">FotosBC</string>
     <string name="txt_img_description">imagem a ser selecionada pelo usuário</string>
     <string name="txt_button">selecione uma imagem</string>
+    <string name="txt_camera">abrir camera</string>
 </resources>
